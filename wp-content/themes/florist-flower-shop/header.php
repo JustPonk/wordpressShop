@@ -17,8 +17,8 @@
         .hero-section {
             position: relative;
             width: 100%;
-            height: 100vh; /* Ajusta la altura */
-            background: url('https://png.pngtree.com/background/20230612/original/pngtree-red-barn-in-the-countryside-wallpaper-picture-image_3188341.jpg') no-repeat center center/cover;
+            height: 60vh; /* Ajusta la altura */
+            background: url('https://media.istockphoto.com/id/1519455954/es/foto/granero-rojo-con-cerca-blanca-al-amanecer-norte-de-indiana.jpg?s=612x612&w=0&k=20&c=CyfVVos7nrJrjlBLH5lYBuR9L9LeFqcOOxNvFyI9O-8=') no-repeat center center/cover;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -77,9 +77,9 @@
 <!-- Hero Section -->
 <section class="hero-section">
     <div class="hero-content">
-        <h1>Bienvenido a Florist Flower Shop</h1>
-        <p>Las mejores flores para cada ocasión</p>
-        <a href="#shop" class="hero-button">Ver Productos</a>
+        <h1>Welcome</h1>
+        <p>Los mejores productos de granja</p>
+        <a href="/farmstore/shop" class="hero-button">Ver Productos</a>
     </div>
 </section>
 
